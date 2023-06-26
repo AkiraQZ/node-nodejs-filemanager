@@ -5,3 +5,4 @@ import fileName from './fileName.js';
 export default function directName(url) {
     return dirname(fileName(url));
 }
+//for push!!!

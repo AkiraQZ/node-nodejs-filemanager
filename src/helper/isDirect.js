@@ -11,3 +11,4 @@ export default async function isDirect(path) {
         return false;
     }
 }
+//for push!!!

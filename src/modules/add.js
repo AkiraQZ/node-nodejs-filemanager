@@ -19,3 +19,4 @@ export default async function add ([fileName]) {
         fileHand?.close()
     }
 }
+//for push!!!

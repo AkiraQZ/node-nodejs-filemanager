@@ -1,6 +1,7 @@
 import * as os from 'node:os';
 import * as process from 'node:process';
 import currDirect from '../helper/currDirect';
+import err from '../helper/err';
 
 export default async function os([command]) {
     try {

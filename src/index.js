@@ -17,3 +17,5 @@ const nameParse = Object.fromEntries(
 //Show welcome massage (if username=Null, show noName)
 const name = nameParse['--username'] ? nameParse['--username'] : 'noName';
 console.log(`Welcome to the File Manager, ${name}!`);
+
+//
